@@ -10,13 +10,9 @@ I am a Data Science student with a great passion for data analysis and interpret
 
 
 [![MIT License](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-
 [![GPLv3 License](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-
 [![AGPL License](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-
 [![Mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcosestudy&show_icons=true&theme=onedark)
@@ -40,30 +36,32 @@ I am a Data Science student with a great passion for data analysis and interpret
 
 🛠️ Habilidades Em crescimento
 
-- Análise de Dados: Experiência em análise estatística, visualização de dados e interpretação de grandes volumes de dados.
-- Programação: Proficiência em Python, R e SQL para manipulação e análise de dados.
-- Ferramentas e Tecnologias: Familiaridade com ferramentas como Pandas, NumPy, Matplotlib, Tableau e Power BI.
-- Machine Learning: Conhecimento em desenvolvimento e implementação de modelos preditivos e algoritmos de aprendizado de máquina.
+- Growing Skills
 
+- Data Analysis: Experience in statistical analysis, data visualization, and interpretation of large volumes of data.
 
-🎓 Sobre meus estudos
+- Programming: Proficiency in Python, R, and SQL for data manipulation and analysis.
 
-- Coletar e organizar dados: Utilizar ferramentas e técnicas para reunir dados de diversas fontes.
-- Coletar e organizar dados: Utilizar ferramentas e técnicas para reunir dados de diversas fontes.
-- Analisar dados: Aplicar métodos estatísticos e algoritmos para interpretar os dados.
-- Visualizar dados: Criar gráficos e dashboards que ajudam a comunicar os resultados de forma clara.
-- Desenvolver modelos preditivos: Usar machine learning para prever tendências e comportamentos futuros.
-- Tomar decisões baseadas em dados: Apoiar empresas e organizações na tomada de decisões estratégicas com base em análises de dados.
+- Tools and Technologies: Familiarity with tools such as Pandas, NumPy, Matplotlib, Tableau, and Power BI.
 
+- Machine Learning: Knowledge in developing and implementing predictive models and machine learning algorithms.
 
-Áreas de Estudo
+🎓 About my studies
 
-- Estatística e Probabilidade
-- Programação (Python, R)
-- Banco de Dados
+- Collecting and organizing data: Using tools and techniques to gather data from multiple sources.
+- Collecting and organizing data: Using tools and techniques to gather data from multiple sources.
+- Analyzing data: Applying statistical methods and algorithms to interpret data.
+- Visualizing data: Creating charts and dashboards that help communicate results clearly.
+- Developing predictive models: Using machine learning to predict future trends and behaviors.
+- Making data-driven decisions: Supporting companies and organizations in making strategic decisions based on data analysis.
+
+Areas of Study
+
+- Statistics and Probability
+- Programming (Python, R)
+- Databases
 - Machine Learning
-- Visualização de Dados
+- Data Visualization
 - Big Data
-- Computação em nuvem
-- Egenharia de dados
-
+- Cloud Computing
+- Data Engineering
