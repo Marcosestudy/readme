@@ -34,9 +34,7 @@ I am a Data Science student with a great passion for data analysis and interpret
 
 
 
-🛠️ Habilidades Em crescimento
-
-- Growing Skills
+🛠️ Growing Skills
 
 - Data Analysis: Experience in statistical analysis, data visualization, and interpretation of large volumes of data.
 
