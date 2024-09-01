@@ -1,5 +1,5 @@
 
-# 📊 Hello! Iam Enthusiast in Data Analysis and Development of Innovative Solutions
+# 📊 Hello! I am Enthusiast in Data Analysis and Development of Innovative Solutions
 
 I am a Data Science student with a great passion for data analysis and interpretation. I am currently looking for opportunities to apply and expand my knowledge in a practical environment. My goal is to use programming and data analysis skills to solve problems and generate valuable insights.
 
